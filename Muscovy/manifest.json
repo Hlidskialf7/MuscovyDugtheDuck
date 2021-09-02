@@ -1,0 +1,12 @@
+{
+   "Name": "Muscovy Ducks",
+   "Author": "Tsu",
+   "Version": "1.0.0",
+   "Description": "Muscovy Ducks.",
+   "UniqueID": "Muscovy",
+   "MinimumApiVersion": "2.11.2",
+   "UpdateKeys": [ "nexus:9501" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

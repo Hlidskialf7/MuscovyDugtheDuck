@@ -1,0 +1,11 @@
+{
+  "Format": "1.5",
+  "Changes": [
+    {
+      "Action": "Load",
+      "Target": "Animals/Duck",
+      "FromFile": "assets/Duck.png"
+    }
+    
+  ]
+}
