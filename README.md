@@ -1,0 +1,2 @@
+# MuscovyDugtheDuck
+Stardew Valley mod.
