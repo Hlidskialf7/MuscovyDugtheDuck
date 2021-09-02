@@ -3,7 +3,7 @@
 This mod is a tribute for my fallen warrior, [Dug the Duck](https://imgur.com/gallery/DMveE).
 It changes the default Duck pallet into a Muscovy duck. No tie this time.
 
-Instalation:
+# Instalation:
 
 Install [SMAPI](https://smapi.io/)
 
